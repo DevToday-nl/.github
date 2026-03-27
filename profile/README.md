@@ -1,6 +1,8 @@
+<p align="center">
 # Devtoday.nl
-
+  
 **Devtoday** is een Nederlands softwareontwikkelingsbedrijf gespecialiseerd in het bouwen van moderne, op maat gemaakte webapplicaties voor bedrijven en ondernemers.
+</p>
 
 ---
 
